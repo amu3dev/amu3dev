@@ -2,6 +2,8 @@
 
 **AI product leader and hands-on engineer building trustworthy AI, developer tools, and 0→1 products.**
 
+[Portfolio](https://ahmedyosry.amu3dev.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/amyosry/)
+
 I work across product strategy, technical direction, and implementation—from framing the problem and testing the smallest useful slice to shipping a maintainable product.
 
 ## What I'm focused on
