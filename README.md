@@ -14,13 +14,13 @@ I work across product strategy, technical direction, and implementation—from f
 
 ## Selected work
 
-| Project | What it shows |
-| --- | --- |
-| [ProofLayer](https://github.com/amu3dev/prooflayer) | A local-first career evidence system for reviewable, evidence-backed resume and profile outputs. |
-| [Gemini Consultant MCP](https://github.com/amu3dev/gemini-consultant-mcp) | A TypeScript MCP server for focused, attributable Gemini consultations with model provenance and bounded retries. |
-| [Focus Galaxy](https://github.com/amu3dev/focus-galaxy) | A visual priority and focus app that turns tasks into an interactive galaxy. |
-| [Healthy Meal RN](https://github.com/amu3dev/healthy_meal_rn) | An Expo + React Native meal app with deterministic daily picks, dietary preferences, local persistence, and tested flows. |
-| [Origin & Oak](https://github.com/amu3dev/OriginAndOak) | A bilingual specialty coffee roastery storefront with an interactive ordering journey. |
+| Project | What it shows | Evidence |
+| --- | --- | --- |
+| [ProofLayer](https://github.com/amu3dev/prooflayer) | A local-first career evidence system for reviewable, evidence-backed resume and profile outputs. | [v0.2.0 release](https://github.com/amu3dev/prooflayer/releases/tag/v0.2.0) · [architecture](https://github.com/amu3dev/prooflayer/blob/main/docs/architecture/PIPELINE_ARCHITECTURE.md) |
+| [Gemini Consultant MCP](https://github.com/amu3dev/gemini-consultant-mcp) | A TypeScript MCP server for focused, attributable Gemini consultations with model provenance and bounded retries. | [CI](https://github.com/amu3dev/gemini-consultant-mcp/actions/workflows/ci.yml) · [v1.0.0 release](https://github.com/amu3dev/gemini-consultant-mcp/releases/tag/v1.0.0) |
+| [Focus Galaxy](https://github.com/amu3dev/focus-galaxy) | An experimental visual priority and focus app that turns tasks into an interactive galaxy. | Experimental MVP · no live demo yet |
+| [Healthy Meal RN](https://github.com/amu3dev/healthy_meal_rn) | An Expo + React Native meal app with deterministic daily picks, dietary preferences, local persistence, and tested flows. | [CI](https://github.com/amu3dev/healthy_meal_rn/actions/workflows/ci.yml) · [demo](https://github.com/amu3dev/healthy_meal_rn/blob/master/docs/screenshots/demo.gif) |
+| [Origin & Oak](https://github.com/amu3dev/OriginAndOak) | A bilingual specialty coffee roastery storefront with an interactive ordering journey. | [Live demo](https://originandoak.amu3dev.workers.dev/) |
 
 ## Toolkit
 
